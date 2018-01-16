@@ -24,6 +24,9 @@ Things you may want to cover:
 ### Getting Set Up
 
 1. Clone the repository
+```shell
+ https://github.com/Paarmita/login-signup.git
+ ```
 4. Initialize and start locally. 
 
 ```shell
