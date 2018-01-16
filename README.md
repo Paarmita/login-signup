@@ -21,4 +21,15 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+### Getting Set Up
+
+1. Clone the repository
+4. Initialize and start locally. 
+
+```shell
+bundle install
+rails s
+```
+
+You can now see the docs at http://localhost:3000. Whoa! That was fast!
+
